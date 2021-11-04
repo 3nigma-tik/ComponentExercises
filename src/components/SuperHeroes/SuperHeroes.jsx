@@ -1,7 +1,7 @@
 import React from 'react';
-import './ListOfPeople.css' 
+import './SuperHeroes.css' 
 
-function ListOfPeople(props){
+function SuperHeroes(props){
     return (
         <div className="row row-spacer">
             <div className="column-md-12" style={{padding: 0}}>
@@ -11,4 +11,4 @@ function ListOfPeople(props){
     )
 }
 
-export default ListOfPeople
+export default SuperHeroes
